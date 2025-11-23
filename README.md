@@ -8,9 +8,10 @@ The project integrates sequence retrieval, homology modeling, and ligand-binding
 
 ## Tools & Databases used
 **UniProt** – Protein sequence retrieval  
+
 **SWISS-MODEL** – Homology modeling
+
 **PrankWeb (P2Rank)** – Ligand-binding site prediction
-**Mol\*** Viewer – Structural visualization  
 
 ##  Summary
 The selected Cytochrome P450 model displayed the conserved P450 fold, dominated by α-helices surrounding a central cavity.  
@@ -27,3 +28,31 @@ PrankWeb predicted several potential ligand-binding pockets, with **Pocket 1 sho
 
 ### **Figure 4. Predicted Pocket 3**
 ![Pocket 3] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/b1ac48efc58a9111b1c91042f1298629f7ef8eb8/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-11-07-04-57-16-05C52716-023D-486A-97B6-3A7E1936B04B_PUBLIC_STRUCTURE.PDB.png
+## References
+The UniProt Consortium , UniProt: the Universal Protein Knowledgebase in 2025. (2025). Nucleic Acids Research, 53(D1).https://doi.org/10.1093/nar/gkae1010  
+
+ 
+
+Waterhouse, A., Bertoni, M., Bienert, S., Studer, G., Tauriello, G., Gumienny, R., Heer, F. T., de Beer, T. A. P., Rempfer, C., Bordoli, L., Lepore, R., & Schwede, T. (2018). SWISS-MODEL: Homology modelling of protein structures and complexes. Nucleic Acids Research, 46(W1). https://doi.org/10.1093/nar/gky427 
+
+ 
+
+Bienert, S., Waterhouse, A., de Beer, T. A. P., Tauriello, G., Studer, G., Bordoli, L., & Schwede, T. (2017). The SWISS-MODEL Repository-new features and functionality. Nucleic Acids Research, 45(D1). https://doi.org/10.1093/nar/gkw1132 
+
+ 
+
+Guex, N., Peitsch, M. C., & Schwede, T. (2009). Automated comparative protein structure modeling with SWISS-MODEL and Swiss-PdbViewer: A historical perspective. Electrophoresis, 30(SUPPL. 1). https://doi.org/10.1002/elps.200900140 
+
+ 
+
+Studer, G., Rempfer, C., Waterhouse, A. M., Gumienny, R., Haas, J., & Schwede, T. (2020). QMEANDisCo—distance constraints applied on model quality estimation. Bioinformatics, 36(6). https://doi.org/10.1093/bioinformatics/btz828 
+
+ 
+
+Bertoni, M., Kiefer, F., Biasini, M., Bordoli, L., & Schwede, T. (2017). Modeling protein quaternary structure of homo- and hetero-oligomers beyond binary interactions by homology. Scientific Reports, 7(1). https://doi.org/10.1038/s41598-017-09654-8 
+
+ 
+
+ Polak, L., Skoda, P., Riedlova, K., Krivak, R., Novotny, M.,  Hoksza, D. (2025). PrankWeb 4: a modular web server for protein–ligand binding site prediction and downstream analysis. Nucleic Acids Research, 53(W1).https://doi.org/10.1093/nar/gkaf421 
+
+ 
