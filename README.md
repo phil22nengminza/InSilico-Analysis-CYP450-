@@ -1,10 +1,9 @@
 # In-Silico Structural and Functional Analysis of Cytochrome P450 Enzyme in *Aedes aegypti*
 
-This repository contains the computational modeling and active-site prediction of a Cytochrome P450 (CYP450) enzyme from *Aedes aegypti*.  
-The project integrates sequence retrieval, homology modeling, and ligand-binding site prediction.
-
+This repository contains the computational modeling and active-site prediction of a Cytochrome P450 (CYP450) enzyme from *Aedes aegypti*, a mosquito species which is a primary vector of dengue, zika and chikungunya virus.
+The project integrates multiple bioinformatics approaches including sequence retrieval, homology modeling, and ligand-binding site prediction,to explore the enzyme's structure and function. The purpose of this project is to help uncover the mechanism of insecticide resistance in CYP450, a detoxifying enzyme which poses a major challenge in vector control strategies.
 ## Project Report
-[Open full report (PDF)] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/3f8ef8b73ec153987341cb8b2c642444e7185294/In-Silico%20Structural%20and%20Functional%20Analysis%20of%20Cytochrome%20P450%20Enzyme%20in%20Aedes%20aegypti.pdf.pdf
+[View full report (PDF)] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/3f8ef8b73ec153987341cb8b2c642444e7185294/In-Silico%20Structural%20and%20Functional%20Analysis%20of%20Cytochrome%20P450%20Enzyme%20in%20Aedes%20aegypti.pdf.pdf
 
 ## Tools & Databases used
 **UniProt** – Protein sequence retrieval  
