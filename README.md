@@ -17,3 +17,14 @@ The selected Cytochrome P450 model displayed the conserved P450 fold, dominated 
 PrankWeb predicted several potential ligand-binding pockets, with **Pocket 1 showing the highest confidence score**, suggesting it to be the primary substrate-binding site.
 
 ## Figures
+### **Figure 1. Predicted 3D Model**
+![Model Overview](./Figures/model_overview.png)
+
+### **Figure 2. Predicted Pocket 1**
+![Pocket 1](./Figures/pocket1.png)
+
+### **Figure 3. Predicted Pocket 2**
+![Pocket 2](./Figures/pocket2.png)
+
+### **Figure 4. Predicted Pocket 3**
+![Pocket 3](./Figures/pocket3.png)
