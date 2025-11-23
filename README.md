@@ -26,4 +26,4 @@ PrankWeb predicted several potential ligand-binding pockets, with **Pocket 1 sho
 ![Pocket 2] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/946afed541c516c1fca31719ba865e75d4f61cac/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-11-07-04-57-16-05C52716-023D-486A-97B6-3A7E1936B04B_PUBLIC_STRUCTURE.PDB%20(2).png
 
 ### **Figure 4. Predicted Pocket 3**
-![Pocket 3] 
+![Pocket 3] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/b1ac48efc58a9111b1c91042f1298629f7ef8eb8/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-11-07-04-57-16-05C52716-023D-486A-97B6-3A7E1936B04B_PUBLIC_STRUCTURE.PDB.png
