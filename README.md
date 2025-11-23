@@ -14,7 +14,7 @@ The project integrates multiple bioinformatics approaches including sequence ret
 
 ##  Summary
 The selected Cytochrome P450 model displayed the conserved P450 fold, dominated by α-helices surrounding a central cavity.  
-PrankWeb predicted several potential ligand-binding pockets, with 
+PrankWeb predicted several potential ligand-binding pockets, 
 
 ## Figures
 ### **Figure 1. Predicted 3D Model**
