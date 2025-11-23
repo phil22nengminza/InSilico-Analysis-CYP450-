@@ -19,15 +19,15 @@ PrankWeb predicted several potential ligand-binding pockets, with **Pocket 1 sho
 
 ## Figures
 ### **Figure 1. Predicted 3D Model**
-![Model Overview] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/63483de38586189d508fbf261f9deefd5ddd8e55/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-10-31-15-52-55-15E6EBF9-0042-4242-89FE-C58328A324BA_PUBLIC_STRUCTURE.PDB.png
+[Model Overview] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/63483de38586189d508fbf261f9deefd5ddd8e55/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-10-31-15-52-55-15E6EBF9-0042-4242-89FE-C58328A324BA_PUBLIC_STRUCTURE.PDB.png
 ### **Figure 2. Predicted Pocket 1**
-![Pocket 1] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/7718508c941785603f3f1309f88e5b11fbe5d193/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-10-31-15-52-55-15E6EBF9-0042-4242-89FE-C58328A324BA_PUBLIC_STRUCTURE.PDB%20(1).png
+[Pocket 1] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/7718508c941785603f3f1309f88e5b11fbe5d193/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-10-31-15-52-55-15E6EBF9-0042-4242-89FE-C58328A324BA_PUBLIC_STRUCTURE.PDB%20(1).png
 
 ### **Figure 3. Predicted Pocket 2**
-![Pocket 2] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/946afed541c516c1fca31719ba865e75d4f61cac/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-11-07-04-57-16-05C52716-023D-486A-97B6-3A7E1936B04B_PUBLIC_STRUCTURE.PDB%20(2).png
+[Pocket 2] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/946afed541c516c1fca31719ba865e75d4f61cac/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-11-07-04-57-16-05C52716-023D-486A-97B6-3A7E1936B04B_PUBLIC_STRUCTURE.PDB%20(2).png
 
 ### **Figure 4. Predicted Pocket 3**
-![Pocket 3] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/b1ac48efc58a9111b1c91042f1298629f7ef8eb8/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-11-07-04-57-16-05C52716-023D-486A-97B6-3A7E1936B04B_PUBLIC_STRUCTURE.PDB.png
+[Pocket 3] https://github.com/phil22nengminza/InSilico-Analysis-CYP450-/blob/b1ac48efc58a9111b1c91042f1298629f7ef8eb8/_API_V2_PREDICTION_V4-USER-UPLOAD_2025-11-07-04-57-16-05C52716-023D-486A-97B6-3A7E1936B04B_PUBLIC_STRUCTURE.PDB.png
 ## References
 The UniProt Consortium , UniProt: the Universal Protein Knowledgebase in 2025. (2025). Nucleic Acids Research, 53(D1).https://doi.org/10.1093/nar/gkae1010  
 
